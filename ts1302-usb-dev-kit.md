@@ -157,5 +157,5 @@ Signature verification SUCCEEDED
 ## Disclaimer
 
 * We are not a company manufacturing USB devices as end-user products.
-* The TS1302 USB development kit featuring the Tropic Square TR01 uses STM32U5 microcontroller. 
+* The TS1302 USB development kit featuring the Tropic Square TROPIC01 uses STM32U5 microcontroller. 
 * For our license disclaimer, please follow this [link](https://github.com/tropicsquare/libtropic/blob/master/LICENSE.md).
